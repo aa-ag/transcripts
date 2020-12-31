@@ -1,0 +1,168 @@
+you may not realize it but we're
+surrounded by arguably the greatest most
+revolutionary invention of the last 50
+years it's in TVs stereos watches cars
+phones traffic lights and pretty well
+every appliance in your kitchen in fact
+these days if a device uses electricity
+it probably uses one the tiny gizmo in
+question is of course the silicon chip
+making these extraordinary miniature
+electronic brains is one of the most
+complex manufacturing tasks ever
+attempted so how do they do it
+in Texas USA polled to big stuff big
+cows big boots big hats big moustaches
+but Texas is also the birthplace of a
+miniaturized miracle the silicon chip
+and here in Sherman 30 kilometers north
+of Dallas is the M EMC fabrication
+facility
+here in this strange futuristic looking
+plant they produce silicon wafers which
+are the basis for all modern microchips
+silicon has special properties because
+it's what's called a semiconductor that
+means depending on how its treated
+silicon can either conduct or block the
+flow of electricity it's this property
+that makes it perfect for supporting the
+millions of tiny transistors necessary
+for a modern computer chip the trouble
+is because these transistors are so
+incredibly small the silicon base on
+which they rest needs to be absolutely
+perfect it took decades to discover a
+way to produce silicon with a perfect
+mono crystalline structure they begin
+with raw poly silicon or poly and heat
+it to 1420 degrees Celsius inside a
+special sealed furnace which has been
+purged with argon gas to eliminate any
+air
+the resulting Lake of molten silicon is
+then spun in a crucible and a silicon
+seed crystal roughly the size and shape
+of a pencil is lowered into it while
+spinning in the opposite direction
+as the molten polysilicon is allowed to
+cool the seed crystal is slowly
+withdrawn at around one and a half
+millimeters a minute
+the result is a single silicon crystal
+weighing around 200 kilos and with a
+diameter of around 200 millimeters
+the crystal is so strong its entire
+weight can be supported by a single
+thread just three millimeters across but
+it is brittle and it must now be cut
+down to size without shattering so after
+testing with chemicals and x-rays to
+check its purity and molecular
+orientation it's fed to a silicon salami
+slicer this 10-ton wire saw uses a
+fast-moving web of ultra-thin wire to
+produce wafers of silicon that are just
+two thirds of a millimeter thick and
+ninety-nine point nine nine nine nine
+nine nine nine nine percent pure but
+once cut there are microscopic marks
+left on the wafer surface so it's time
+for a buffer using a process called
+lapping
+but even after a twirl in this
+high-powered polisher they're still not
+smooth enough so they're then given yet
+another buff using a chemical process
+the result is wafers of silicon with a
+surface roughness of less than 0.1
+billion billionth of a meter buffed to a
+sheen they're now ready for etching with
+the circuit design packing millions of
+transistors onto these tiny wafers is
+the job of chip manufacturers like Texas
+Instruments back in 1958 the inventor of
+the integrated circuit Jack Kilby
+managed to squeeze a single transistor
+onto his design these days the latest
+generation use almost a billion and
+according to Moore's law that number
+doubles every two years but of course
+the more they try and pack into the
+design the smaller each transistor needs
+to get there are over a quarter billion
+transistors in this design
+someone has to shrink them down to this
+working at this microscopic scale
+exposes the chip makers to a major
+problem when a transistor is only one
+ten thousandth of a millimeter across
+the smallest particle of dust is enough
+to cause an electronic trainwreck
+so before staff like Dane Baily set to
+work in the fab it's on with the bunny
+suit wafer fab stands for wafer
+fabrication we build the chips here we
+start with the bare silicon wafer we've
+run through a multitude of different
+processing steps for our general product
+that we make here a DSP typically takes
+on the order of about 1500 individual
+processing steps from start to finish
+with an area of just under 18,000 square
+meters the PHAB is a class 1 cleanroom
+thanks to 12,000 tons of air
+conditioning equipment the air is a
+thousand times cleaner than a hospital
+operating theater there is actually less
+than 100 particles per cubic foot of air
+as few as one particle landing on a
+critical area can kill a chip to give
+you an idea how clean this room is
+walking alone produces five million
+particles every minute so to avoid
+contamination from the inadvertently
+dusty staff front opening unified pods
+or foots ferry packets of wafers through
+the intricate process of component
+construction
+the key problem is miniaturizing the
+complex designs and imprinting them on
+the wafers
+it's done through a process known as
+photolithography first the wafer is
+coated with photosensitive chemicals
+which harden when exposed to UV light in
+sealed dark rooms light is shone through
+an image of the design then through a
+miniaturizing lens and onto the coated
+wafer when the chemical is washed off
+the design remains just like a developed
+photographic image but in order to pack
+all the components onto the wafer
+they're built up layer by layer like
+floors in a miniature skyscraper
+so to complete the job the Fuchs cycle
+the wafers up to 40 times repeating the
+photo etching process for each new layer
+some layers are cooked some blasted with
+ionized plasma some bathed in metals
+each different type of treatment changes
+the properties for that layer and slowly
+forms part of the jigsaw making up the
+chips design the finished sheets of
+silicon wafer carry up to 1000
+individual microchips and over 4
+thousand billion circuit elements all
+the remains is to slice and dice and the
+journey from sand to circuit board is
+complete
+what was once a worthless pile of sand
+can now change hands for more than
+$17,000 a gram and calculate PI to 1000
+decimal places in the blink of an eye
+metaphysical poet William Blake reckoned
+he could see a world in a grain of sand
+but if he were to look again now he
+would surely be even more amazed to
+discover a billion tiny transistors

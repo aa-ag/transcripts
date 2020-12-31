@@ -26,7 +26,9 @@ def get_transcripts():
     for transcript in entire_transcript:
         clean_transcript += transcript['text'] + '\n'
 
-    print(clean_transcript)
+    with open('Transcript.txt', 'w') as readable_transcript:
+        readable_transcript.write(clean_transcript)
+        readable_transcript.close()
 
 
 ###--- DRIVER CODE ---###
