@@ -8,7 +8,13 @@ def count_words():
         data = t.read()
         words = data.split()
         word_count = collections.Counter(words)
-        print(word_count)
+        # All words
+        # print(word_count)
+
+        # Selection that meets a conditional
+        repetitive_words = {k: v for k, v in word_count.items() if v > 10}
+        print(repetitive_words)
+        # {'the': 62, 'of': 36, 'in': 19, 'and': 20, 'a': 47, 'is': 26, 'silicon': 16, 'to': 34, 'with': 12}
 
 
 ###--- DRIVER CODE ---###
